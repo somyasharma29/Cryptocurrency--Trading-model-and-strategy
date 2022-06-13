@@ -1,1 +1,1 @@
-# Cryptocurrency--Trading-model-and-strategy
+# CS419-Project
