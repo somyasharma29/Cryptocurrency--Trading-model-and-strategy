@@ -1,4 +1,4 @@
-# CS419-Project
+# CS419(Introduction to Machine Learning) project | Prof.- Abir De
 The project aims to prepare a model and find optimal trading strategy using the data extracted
 from Bitmex. The projects consists of two stages. The first stage has three parts:
  1. Extracting data from the Bitmex trading platform
